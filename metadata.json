@@ -1,0 +1,5 @@
+{
+  "name": "Riyaz Piano",
+  "description": "An interactive piano learning application focused on Indian classical music. Users can select difficulty levels to learn and practice Sargam notes, scales, and simple compositions on a virtual keyboard.",
+  "requestFramePermissions": []
+}
